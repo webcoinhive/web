@@ -85,7 +85,7 @@ form.login div input[type="submit"] {
     text-align: center; 
 } 
 </style> 
-  
+<body style="background-image: url(&quot;wallpaper.jpg&quot;);">  
 <form action="" method="post" class="login"> 
     <div><label>Username</label><input name="user" type="text" ></div> 
     <div><label>Password</label><input name="password" type="password"></div> 
